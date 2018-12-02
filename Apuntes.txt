@@ -1,0 +1,33 @@
+La estructura basica de un documento html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Estructura Basica</title>
+</head>
+<body>
+    <p title="Mi primer parrafo">Hola Mundo</p>
+</body>
+</html>
+
+
+Etiqueta meta
+
+La Etiqueta meta no tiene cierre y se ubica dentro de la etiqueta head
+se usa para compartir informacion para el posicionamiento en nuestros
+buscadores
+
+la palabra name escribimos el nombre de la propiedad que vamos a usar
+la palabra content escribimos el valor de la propiedad
+
+
+Parrafo y texto
+
+la etiqueta <em></em> pone el texto que va dentro de ella de forma cursiva
+
+la etiqueta <strong></strong> pone el texto que va dentro de el en negrita
+
+la etiqueta <br/> hace un salto de linea
